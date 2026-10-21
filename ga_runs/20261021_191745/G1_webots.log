@@ -1,0 +1,17 @@
+INFO: drone_pid: Starting controller: "C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\webots_pid\controllers\drone_pid\drone_pid.exe"
+GA evaluation mode: 8 candidates from C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261021_191745\G1_candidates.csv -> C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261021_191745\G1_results.csv (full reset: on)
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.753383 > 0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.612202 < -0.5
+Episode 1/8 (P=1.40 I=0.002 D=0.68): SUCCESS
+Episode 2/8 (P=1.47 I=0.007 D=1.12): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.768599 > 0.5
+Episode 3/8 (P=1.60 I=0.007 D=1.17): SUCCESS
+Episode 4/8 (P=1.35 I=0.007 D=1.17): SUCCESS
+Episode 5/8 (P=1.39 I=0.007 D=1.17): SUCCESS
+Episode 6/8 (P=1.36 I=0.008 D=1.18): SUCCESS
+Episode 7/8 (P=1.42 I=0.005 D=1.17): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.767868 > 0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.622557 < -0.5
+INFO: drone_pid: Terminating.
+Episode 8/8 (P=1.58 I=0.008 D=1.17): SUCCESS
+GA evaluation finished: 8 candidates.
