@@ -1,0 +1,20 @@
+INFO: drone_pid: Starting controller: "C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\webots_pid\controllers\drone_pid\drone_pid.exe"
+GA evaluation mode: 16 candidates from C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261027_220132\G1_candidates.csv -> C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261027_220132\G1_results.csv (full reset: on)
+Episode 1/16 (P=3.99 I=0.905 D=2.40): SUCCESS
+Episode 2/16 (P=1.41 I=0.791 D=3.57): SUCCESS
+Episode 3/16 (P=4.51 I=0.186 D=2.25): SUCCESS
+Episode 4/16 (P=3.93 I=0.107 D=1.65): SUCCESS
+Episode 5/16 (P=8.00 I=0.671 D=1.54): SUCCESS
+Episode 6/16 (P=5.37 I=0.227 D=1.83): SUCCESS
+Episode 7/16 (P=0.70 I=0.545 D=2.08): SUCCESS
+Episode 8/16 (P=5.46 I=1.017 D=2.16): SUCCESS
+Episode 9/16 (P=2.96 I=1.618 D=2.43): SUCCESS
+Episode 10/16 (P=3.98 I=0.055 D=2.46): SUCCESS
+Episode 11/16 (P=2.51 I=0.269 D=2.24): SUCCESS
+Episode 12/16 (P=2.16 I=0.462 D=1.91): SUCCESS
+Episode 13/16 (P=4.48 I=1.169 D=3.97): SUCCESS
+Episode 14/16 (P=3.55 I=1.696 D=1.67): SUCCESS
+Episode 15/16 (P=7.51 I=1.609 D=2.14): SUCCESS
+INFO: drone_pid: Terminating.
+Episode 16/16 (P=6.43 I=0.037 D=0.88): SUCCESS
+GA evaluation finished: 16 candidates.

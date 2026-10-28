@@ -1,0 +1,41 @@
+INFO: drone_pid: Starting controller: "C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\webots_pid\controllers\drone_pid\drone_pid.exe"
+GA evaluation mode: 35 candidates from C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261028_080956\G2_candidates.csv -> C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261028_080956\G2_results.csv (full reset: on)
+Episode 1/35 (P=7.60 I=0.675 D=1.98): SUCCESS
+Episode 2/35 (P=1.04 I=0.520 D=1.18): SUCCESS
+Episode 3/35 (P=8.00 I=0.890 D=3.69): SUCCESS
+Episode 4/35 (P=8.00 I=0.599 D=2.53): SUCCESS
+Episode 5/35 (P=2.24 I=0.852 D=2.63): SUCCESS
+Episode 6/35 (P=1.44 I=0.956 D=3.98): SUCCESS
+Episode 7/35 (P=5.23 I=1.130 D=3.47): SUCCESS
+Episode 8/35 (P=3.65 I=0.649 D=2.82): SUCCESS
+Episode 9/35 (P=2.08 I=0.859 D=3.57): SUCCESS
+Episode 10/35 (P=1.84 I=1.111 D=3.91): SUCCESS
+Episode 11/35 (P=5.02 I=0.250 D=0.97): SUCCESS
+Episode 12/35 (P=4.04 I=0.001 D=2.66): SUCCESS
+Episode 13/35 (P=2.00 I=0.351 D=1.64): SUCCESS
+Episode 14/35 (P=2.26 I=0.325 D=3.80): SUCCESS
+Episode 15/35 (P=4.75 I=0.219 D=3.79): SUCCESS
+Episode 16/35 (P=3.02 I=0.716 D=2.38): SUCCESS
+Episode 17/35 (P=4.44 I=1.232 D=3.88): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.698128 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.507732 > 0.5
+Episode 18/35 (P=3.97 I=0.434 D=3.66): SUCCESS
+Episode 19/35 (P=6.34 I=0.264 D=3.88): SUCCESS
+Episode 20/35 (P=7.37 I=0.723 D=3.84): SUCCESS
+Episode 21/35 (P=7.53 I=0.114 D=4.00): SUCCESS
+Episode 22/35 (P=3.47 I=0.342 D=0.77): SUCCESS
+Episode 23/35 (P=3.22 I=0.001 D=3.76): SUCCESS
+Episode 24/35 (P=3.42 I=0.309 D=3.45): SUCCESS
+Episode 25/35 (P=5.40 I=0.225 D=3.54): SUCCESS
+Episode 26/35 (P=7.70 I=0.057 D=3.60): SUCCESS
+Episode 27/35 (P=4.80 I=0.804 D=3.00): SUCCESS
+Episode 28/35 (P=5.77 I=0.481 D=3.20): SUCCESS
+Episode 29/35 (P=1.83 I=0.337 D=3.68): SUCCESS
+Episode 30/35 (P=1.62 I=0.288 D=2.93): SUCCESS
+Episode 31/35 (P=1.96 I=1.015 D=3.97): SUCCESS
+Episode 32/35 (P=0.73 I=0.034 D=3.98): SUCCESS
+Episode 33/35 (P=4.97 I=0.255 D=3.64): SUCCESS
+Episode 34/35 (P=7.13 I=1.073 D=2.68): SUCCESS
+INFO: drone_pid: Terminating.
+Episode 35/35 (P=2.69 I=0.102 D=2.58): SUCCESS
+GA evaluation finished: 35 candidates.

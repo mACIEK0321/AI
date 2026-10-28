@@ -1,0 +1,46 @@
+INFO: drone_pid: Starting controller: "C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\webots_pid\controllers\drone_pid\drone_pid.exe"
+GA evaluation mode: 40 candidates from C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261028_074849\G0_candidates.csv -> C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261028_074849\G0_results.csv (full reset: on)
+Episode 1/40 (P=5.81 I=1.024 D=1.48): SUCCESS
+Episode 2/40 (P=3.80 I=1.265 D=2.43): SUCCESS
+Episode 3/40 (P=6.20 I=1.391 D=2.17): SUCCESS
+Episode 4/40 (P=7.95 I=0.169 D=1.24): SUCCESS
+Episode 5/40 (P=7.67 I=1.696 D=0.58): SUCCESS
+Episode 6/40 (P=2.04 I=1.865 D=2.83): SUCCESS
+Episode 7/40 (P=1.33 I=0.242 D=1.92): SUCCESS
+Episode 8/40 (P=2.35 I=1.116 D=0.67): SUCCESS
+Episode 9/40 (P=1.55 I=0.399 D=3.16): SUCCESS
+Episode 10/40 (P=4.82 I=0.958 D=3.54): SUCCESS
+Episode 11/40 (P=0.84 I=0.890 D=3.08): SUCCESS
+Episode 12/40 (P=4.67 I=1.605 D=1.84): SUCCESS
+Episode 13/40 (P=4.27 I=0.940 D=3.45): SUCCESS
+Episode 14/40 (P=5.55 I=0.770 D=0.89): SUCCESS
+Episode 15/40 (P=6.90 I=0.549 D=1.40): SUCCESS
+Episode 16/40 (P=1.95 I=1.972 D=2.12): SUCCESS
+Episode 17/40 (P=1.65 I=1.212 D=1.09): SUCCESS
+Episode 18/40 (P=6.61 I=1.340 D=2.55): SUCCESS
+Episode 19/40 (P=1.20 I=0.332 D=1.71): SUCCESS
+Episode 20/40 (P=3.38 I=0.279 D=0.84): SUCCESS
+Episode 21/40 (P=7.22 I=0.624 D=1.80): SUCCESS
+Episode 22/40 (P=4.47 I=1.845 D=1.57): SUCCESS
+Episode 23/40 (P=6.95 I=0.808 D=2.30): SUCCESS
+Episode 24/40 (P=4.98 I=0.056 D=2.39): SUCCESS
+Episode 25/40 (P=2.91 I=0.458 D=3.79): SUCCESS
+Episode 26/40 (P=1.01 I=1.943 D=0.94): SUCCESS
+Episode 27/40 (P=2.30 I=0.673 D=3.31): SUCCESS
+Episode 28/40 (P=5.24 I=0.023 D=3.27): SUCCESS
+Episode 29/40 (P=7.49 I=0.140 D=0.69): SUCCESS
+Episode 30/40 (P=7.29 I=1.749 D=1.19): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.691066 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.50279 > 0.5
+Episode 31/40 (P=3.74 I=0.574 D=3.69): SUCCESS
+Episode 32/40 (P=5.70 I=1.161 D=2.05): SUCCESS
+Episode 33/40 (P=4.11 I=1.535 D=1.35): SUCCESS
+Episode 34/40 (P=5.31 I=0.411 D=2.75): SUCCESS
+Episode 35/40 (P=2.78 I=1.773 D=3.89): SUCCESS
+Episode 36/40 (P=6.08 I=1.565 D=2.88): SUCCESS
+Episode 37/40 (P=3.19 I=0.716 D=2.61): SUCCESS
+Episode 38/40 (P=3.58 I=1.405 D=3.97): SUCCESS
+Episode 39/40 (P=2.66 I=1.082 D=3.01): SUCCESS
+INFO: drone_pid: Terminating.
+Episode 40/40 (P=6.43 I=1.458 D=3.59): SUCCESS
+GA evaluation finished: 40 candidates.

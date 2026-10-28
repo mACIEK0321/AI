@@ -1,0 +1,12 @@
+INFO: drone_pid: Starting controller: "C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\webots_pid\controllers\drone_pid\drone_pid.exe"
+GA evaluation mode: 8 candidates from C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261027_164927\G1_candidates.csv -> C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261027_164927\G1_results.csv (full reset: on)
+Episode 1/8 (P=5.86 I=0.478 D=1.43): SUCCESS
+Episode 2/8 (P=3.60 I=0.285 D=1.69): SUCCESS
+Episode 3/8 (P=4.91 I=1.084 D=2.72): SUCCESS
+Episode 4/8 (P=3.84 I=0.247 D=3.09): SUCCESS
+Episode 5/8 (P=7.01 I=0.636 D=2.86): SUCCESS
+Episode 6/8 (P=2.82 I=0.261 D=1.81): SUCCESS
+Episode 7/8 (P=1.40 I=0.128 D=2.89): SUCCESS
+INFO: drone_pid: Terminating.
+Episode 8/8 (P=2.58 I=0.001 D=2.24): SUCCESS
+GA evaluation finished: 8 candidates.

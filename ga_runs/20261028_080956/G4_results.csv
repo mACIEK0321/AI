@@ -1,0 +1,2 @@
+candidate_id,episode,scenario,flight_duration,p_gain,I_gain,D_gain,inital_pitch,initail_roll,initail_yaw,wind_speed,payload_weight,rise_time,settling_time,overshoot_percent,steady_state_error,Total_energy_consumed,stability_score,flipped,avg_position_x,avg_position_y,avg_position_z
+G4_C1,1,1,10.0560,2.7802,0.0421,2.6051,0.0000,0.0000,0.0000,0.00,0.000,5.5360,12.0000,0.00,0.1650,2655.1131,0.5973,0,-0.3266,0.0364,0.6270

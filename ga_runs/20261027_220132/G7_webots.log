@@ -1,0 +1,21 @@
+INFO: drone_pid: Starting controller: "C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\webots_pid\controllers\drone_pid\drone_pid.exe"
+GA evaluation mode: 16 candidates from C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261027_220132\G7_candidates.csv -> C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261027_220132\G7_results.csv (full reset: on)
+Episode 1/16 (P=7.04 I=0.001 D=1.51): SUCCESS
+Episode 2/16 (P=3.78 I=0.377 D=2.45): SUCCESS
+Episode 3/16 (P=2.00 I=0.448 D=0.53): SUCCESS
+Episode 4/16 (P=2.56 I=0.359 D=1.75): SUCCESS
+Episode 5/16 (P=8.00 I=0.845 D=2.91): SUCCESS
+Episode 6/16 (P=6.80 I=0.209 D=3.21): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.680102 < -0.5
+Episode 7/16 (P=2.76 I=0.021 D=0.71): SUCCESS
+Episode 8/16 (P=2.18 I=0.001 D=0.78): SUCCESS
+Episode 9/16 (P=2.01 I=0.300 D=3.10): SUCCESS
+Episode 10/16 (P=1.98 I=0.149 D=3.26): SUCCESS
+Episode 11/16 (P=4.17 I=0.407 D=1.56): SUCCESS
+Episode 12/16 (P=5.36 I=0.273 D=1.08): SUCCESS
+Episode 13/16 (P=2.52 I=0.001 D=0.50): SUCCESS
+Episode 14/16 (P=2.16 I=0.005 D=0.93): SUCCESS
+Episode 15/16 (P=7.83 I=0.800 D=2.90): SUCCESS
+INFO: drone_pid: Terminating.
+Episode 16/16 (P=0.87 I=0.801 D=3.56): SUCCESS
+GA evaluation finished: 16 candidates.

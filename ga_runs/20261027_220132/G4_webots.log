@@ -1,0 +1,24 @@
+INFO: drone_pid: Starting controller: "C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\webots_pid\controllers\drone_pid\drone_pid.exe"
+GA evaluation mode: 16 candidates from C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261027_220132\G4_candidates.csv -> C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261027_220132\G4_results.csv (full reset: on)
+Episode 1/16 (P=7.42 I=0.116 D=2.69): SUCCESS
+Episode 2/16 (P=7.37 I=0.190 D=2.83): SUCCESS
+Episode 3/16 (P=0.70 I=0.218 D=1.93): SUCCESS
+Episode 4/16 (P=2.36 I=0.001 D=1.25): SUCCESS
+Episode 5/16 (P=0.70 I=0.169 D=2.63): SUCCESS
+Episode 6/16 (P=2.20 I=0.629 D=2.52): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.690857 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.501947 > 0.5
+Episode 7/16 (P=1.79 I=0.506 D=2.03): SUCCESS
+Episode 8/16 (P=1.07 I=0.439 D=1.96): SUCCESS
+Episode 9/16 (P=8.00 I=0.507 D=3.53): SUCCESS
+Episode 10/16 (P=8.00 I=0.646 D=1.60): SUCCESS
+Episode 11/16 (P=0.70 I=0.542 D=1.88): SUCCESS
+Episode 12/16 (P=1.93 I=0.459 D=2.49): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.721617 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.523675 > 0.5
+Episode 13/16 (P=3.07 I=0.359 D=3.32): SUCCESS
+Episode 14/16 (P=2.03 I=0.265 D=0.50): SUCCESS
+Episode 15/16 (P=5.60 I=0.476 D=3.48): SUCCESS
+INFO: drone_pid: Terminating.
+Episode 16/16 (P=3.24 I=1.707 D=1.55): SUCCESS
+GA evaluation finished: 16 candidates.

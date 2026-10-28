@@ -1,0 +1,22 @@
+INFO: drone_pid: Starting controller: "C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\webots_pid\controllers\drone_pid\drone_pid.exe"
+GA evaluation mode: 16 candidates from C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261027_220132\G3_candidates.csv -> C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261027_220132\G3_results.csv (full reset: on)
+Episode 1/16 (P=3.23 I=0.459 D=2.28): SUCCESS
+Episode 2/16 (P=0.93 I=0.199 D=2.19): SUCCESS
+Episode 3/16 (P=2.99 I=0.290 D=2.44): SUCCESS
+Episode 4/16 (P=4.31 I=0.321 D=2.67): SUCCESS
+Episode 5/16 (P=1.86 I=0.038 D=3.74): SUCCESS
+Episode 6/16 (P=8.00 I=0.057 D=3.05): SUCCESS
+Episode 7/16 (P=1.09 I=0.414 D=1.92): SUCCESS
+Episode 8/16 (P=4.85 I=0.505 D=2.02): SUCCESS
+Episode 9/16 (P=1.89 I=0.810 D=1.74): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.704799 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.512332 > 0.5
+Episode 10/16 (P=1.58 I=0.403 D=2.31): SUCCESS
+Episode 11/16 (P=0.83 I=0.535 D=1.91): SUCCESS
+Episode 12/16 (P=0.95 I=0.538 D=2.06): SUCCESS
+Episode 13/16 (P=1.88 I=0.473 D=1.18): SUCCESS
+Episode 14/16 (P=1.55 I=0.169 D=1.87): SUCCESS
+Episode 15/16 (P=6.12 I=0.030 D=3.40): SUCCESS
+INFO: drone_pid: Terminating.
+Episode 16/16 (P=6.95 I=0.745 D=1.04): SUCCESS
+GA evaluation finished: 16 candidates.

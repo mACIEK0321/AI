@@ -1,0 +1,59 @@
+INFO: drone_pid: Starting controller: "C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\webots_pid\controllers\drone_pid\drone_pid.exe"
+GA evaluation mode: 50 candidates from C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261027_172031\G0_candidates.csv -> C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261027_172031\G0_results.csv (full reset: on)
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > RotationalMotor "camera pitch": too low requested position: -0.54455 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > RotationalMotor "camera pitch": too low requested position: -0.537079 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > RotationalMotor "camera pitch": too low requested position: -0.533815 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > RotationalMotor "camera pitch": too low requested position: -0.530627 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > RotationalMotor "camera pitch": too low requested position: -0.527498 < -0.5
+Episode 1/50 (P=4.33 I=1.476 D=1.47): SUCCESS
+Episode 2/50 (P=5.66 I=0.460 D=2.14): SUCCESS
+Episode 3/50 (P=3.43 I=0.538 D=1.94): SUCCESS
+Episode 4/50 (P=1.38 I=0.223 D=0.56): SUCCESS
+Episode 5/50 (P=6.27 I=1.357 D=3.21): SUCCESS
+Episode 6/50 (P=7.21 I=0.766 D=3.31): SUCCESS
+Episode 7/50 (P=2.27 I=0.019 D=2.51): SUCCESS
+Episode 8/50 (P=2.47 I=1.626 D=3.05): SUCCESS
+Episode 9/50 (P=7.93 I=1.577 D=3.45): SUCCESS
+Episode 10/50 (P=0.81 I=1.228 D=3.93): SUCCESS
+Episode 11/50 (P=4.79 I=0.646 D=0.65): SUCCESS
+Episode 12/50 (P=7.53 I=1.554 D=2.86): SUCCESS
+Episode 13/50 (P=3.14 I=1.727 D=3.27): SUCCESS
+Episode 14/50 (P=3.01 I=0.320 D=1.57): SUCCESS
+Episode 15/50 (P=7.27 I=0.045 D=3.13): SUCCESS
+Episode 16/50 (P=7.63 I=0.573 D=3.75): SUCCESS
+Episode 17/50 (P=6.88 I=0.329 D=1.05): SUCCESS
+Episode 18/50 (P=3.99 I=1.072 D=1.09): SUCCESS
+Episode 19/50 (P=3.56 I=1.418 D=2.71): SUCCESS
+Episode 20/50 (P=1.20 I=0.970 D=3.62): SUCCESS
+Episode 21/50 (P=1.98 I=1.113 D=2.75): SUCCESS
+Episode 22/50 (P=2.36 I=0.367 D=3.57): SUCCESS
+Episode 23/50 (P=3.72 I=1.124 D=3.68): SUCCESS
+Episode 24/50 (P=5.70 I=0.929 D=2.01): SUCCESS
+Episode 25/50 (P=1.77 I=1.252 D=2.30): SUCCESS
+Episode 26/50 (P=1.46 I=1.918 D=1.79): SUCCESS
+Episode 27/50 (P=6.50 I=0.712 D=3.40): SUCCESS
+Episode 28/50 (P=6.63 I=1.642 D=1.18): SUCCESS
+Episode 29/50 (P=5.97 I=1.838 D=0.77): SUCCESS
+Episode 30/50 (P=5.91 I=0.112 D=2.04): SUCCESS
+Episode 31/50 (P=4.58 I=0.616 D=1.74): SUCCESS
+Episode 32/50 (P=3.18 I=0.439 D=2.40): SUCCESS
+Episode 33/50 (P=2.02 I=1.284 D=2.18): SUCCESS
+Episode 34/50 (P=4.39 I=0.893 D=2.57): SUCCESS
+Episode 35/50 (P=3.88 I=1.686 D=2.37): SUCCESS
+Episode 36/50 (P=5.28 I=0.752 D=2.97): SUCCESS
+Episode 37/50 (P=1.70 I=1.012 D=1.28): SUCCESS
+Episode 38/50 (P=6.13 I=1.978 D=1.54): SUCCESS
+Episode 39/50 (P=2.85 I=1.399 D=0.81): SUCCESS
+Episode 40/50 (P=0.95 I=1.931 D=0.97): SUCCESS
+Episode 41/50 (P=4.70 I=1.492 D=3.88): SUCCESS
+Episode 42/50 (P=6.75 I=0.194 D=1.22): SUCCESS
+Episode 43/50 (P=2.70 I=1.167 D=1.36): SUCCESS
+Episode 44/50 (P=5.42 I=0.266 D=0.85): SUCCESS
+Episode 45/50 (P=1.10 I=0.500 D=1.84): SUCCESS
+Episode 46/50 (P=5.00 I=0.136 D=2.93): SUCCESS
+Episode 47/50 (P=7.78 I=1.843 D=1.63): SUCCESS
+Episode 48/50 (P=7.06 I=1.774 D=0.64): SUCCESS
+Episode 49/50 (P=4.12 I=0.819 D=2.63): SUCCESS
+INFO: drone_pid: Terminating.
+Episode 50/50 (P=5.10 I=0.866 D=3.83): SUCCESS
+GA evaluation finished: 50 candidates.
