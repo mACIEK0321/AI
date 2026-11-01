@@ -1,0 +1,71 @@
+INFO: drone_pid: Starting controller: "C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\webots_pid\controllers\drone_pid\drone_pid.exe"
+GA evaluation mode: 44 candidates from C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261029_103203\G2_candidates.csv -> C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261029_103203\G2_results.csv (full reset: on)
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.530541 > 0.5
+Episode 1/44 (P=50.55 I=0.710 D=22.12): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.560242 > 0.5
+Episode 2/44 (P=46.45 I=0.375 D=20.13): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.741734 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.537105 > 0.5
+Episode 3/44 (P=25.08 I=0.395 D=23.45): SUCCESS
+Episode 4/44 (P=39.86 I=0.400 D=22.14): SUCCESS
+Episode 5/44 (P=39.50 I=0.408 D=20.84): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.590261 < -0.5
+Episode 6/44 (P=40.41 I=0.410 D=20.67): SUCCESS
+Episode 7/44 (P=54.99 I=0.394 D=22.23): SUCCESS
+Episode 8/44 (P=48.44 I=0.405 D=23.09): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.551942 > 0.5
+Episode 9/44 (P=53.64 I=0.396 D=23.48): SUCCESS
+Episode 10/44 (P=42.33 I=0.398 D=23.17): SUCCESS
+Episode 11/44 (P=41.59 I=0.675 D=21.39): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.666005 < -0.5
+Episode 12/44 (P=38.51 I=0.609 D=22.49): SUCCESS
+Episode 13/44 (P=24.68 I=0.368 D=21.33): SUCCESS
+Episode 14/44 (P=40.61 I=0.370 D=15.55): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.672964 < -0.5
+Episode 15/44 (P=55.03 I=0.407 D=21.05): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.513068 < -0.5
+Episode 16/44 (P=48.67 I=0.440 D=24.09): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.540235 > 0.5
+Episode 17/44 (P=50.37 I=0.402 D=21.86): SUCCESS
+Episode 18/44 (P=41.64 I=0.395 D=26.41): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.612575 < -0.5
+Episode 19/44 (P=30.35 I=0.430 D=16.24): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.584188 > 0.5
+Episode 20/44 (P=29.77 I=0.430 D=10.59): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.525792 < -0.5
+Episode 21/44 (P=36.65 I=0.572 D=17.08): SUCCESS
+Episode 22/44 (P=38.77 I=1.224 D=26.45): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.576412 < -0.5
+Episode 23/44 (P=40.32 I=0.386 D=20.51): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.558098 > 0.5
+Episode 24/44 (P=46.34 I=0.961 D=18.87): SUCCESS
+Episode 25/44 (P=59.19 I=0.447 D=21.57): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.539402 > 0.5
+Episode 26/44 (P=51.08 I=0.420 D=22.50): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.738815 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.678774 < -0.5
+Episode 27/44 (P=39.88 I=0.413 D=21.44): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.53749 < -0.5
+Episode 28/44 (P=41.87 I=0.407 D=20.67): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.561459 > 0.5
+Episode 29/44 (P=47.76 I=0.462 D=19.82): SUCCESS
+Episode 30/44 (P=58.37 I=4.124 D=12.79): SUCCESS
+Episode 31/44 (P=22.98 I=3.769 D=24.14): SUCCESS
+Episode 32/44 (P=34.74 I=4.476 D=4.75): SUCCESS
+Episode 33/44 (P=61.62 I=0.571 D=5.03): SUCCESS
+Episode 34/44 (P=37.70 I=0.431 D=2.06): SUCCESS
+Episode 35/44 (P=0.74 I=2.238 D=23.35): SUCCESS
+Episode 36/44 (P=3.11 I=3.296 D=24.78): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.7845 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.565916 > 0.5
+Episode 37/44 (P=12.34 I=0.820 D=25.89): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.551081 > 0.5
+Episode 38/44 (P=57.74 I=2.741 D=24.67): SUCCESS
+Episode 39/44 (P=7.13 I=2.033 D=22.27): SUCCESS
+Episode 40/44 (P=18.54 I=3.786 D=15.37): SUCCESS
+Episode 41/44 (P=52.69 I=2.377 D=11.35): SUCCESS
+Episode 42/44 (P=15.89 I=1.121 D=22.67): SUCCESS
+Episode 43/44 (P=8.94 I=0.521 D=5.70): SUCCESS
+INFO: drone_pid: Terminating.
+Episode 44/44 (P=12.85 I=4.133 D=12.26): SUCCESS
+GA evaluation finished: 44 candidates.

@@ -1,0 +1,47 @@
+INFO: drone_pid: Starting controller: "C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\webots_pid\controllers\drone_pid\drone_pid.exe"
+GA evaluation mode: 35 candidates from C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261028_173529\G2_candidates.csv -> C:\Users\mkola\OneDrive\Pulpit\studia\semestr 9\AI\ga_runs\20261028_173529\G2_results.csv (full reset: on)
+Episode 1/35 (P=18.49 I=0.934 D=5.00): SUCCESS
+Episode 2/35 (P=13.00 I=0.755 D=3.57): SUCCESS
+Episode 3/35 (P=19.46 I=4.947 D=9.52): SUCCESS
+Episode 4/35 (P=19.49 I=3.511 D=4.79): SUCCESS
+Episode 5/35 (P=11.44 I=2.189 D=8.27): SUCCESS
+Episode 6/35 (P=3.54 I=3.175 D=11.96): SUCCESS
+Episode 7/35 (P=14.04 I=2.366 D=10.89): SUCCESS
+Episode 8/35 (P=12.81 I=1.495 D=7.73): SUCCESS
+Episode 9/35 (P=9.89 I=1.377 D=10.85): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.681889 < -0.5
+Episode 10/35 (P=7.93 I=3.047 D=12.18): SUCCESS
+Episode 11/35 (P=16.09 I=0.618 D=5.56): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.640992 < -0.5
+Episode 12/35 (P=11.85 I=0.402 D=7.64): SUCCESS
+Episode 13/35 (P=1.53 I=0.923 D=0.50): SUCCESS
+Episode 14/35 (P=3.04 I=0.490 D=7.13): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.715344 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.519575 > 0.5
+Episode 15/35 (P=8.83 I=1.471 D=10.17): SUCCESS
+Episode 16/35 (P=5.66 I=3.885 D=5.02): SUCCESS
+Episode 17/35 (P=14.68 I=2.626 D=7.33): SUCCESS
+Episode 18/35 (P=13.13 I=0.591 D=8.14): SUCCESS
+Episode 19/35 (P=3.75 I=0.110 D=13.33): SUCCESS
+Episode 20/35 (P=3.78 I=2.312 D=11.07): SUCCESS
+Episode 21/35 (P=16.59 I=0.684 D=12.17): SUCCESS
+Episode 22/35 (P=11.20 I=1.998 D=2.95): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.770673 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.556754 > 0.5
+Episode 23/35 (P=10.31 I=0.100 D=14.00): SUCCESS
+Episode 24/35 (P=10.75 I=1.337 D=12.98): SUCCESS
+Episode 25/35 (P=13.92 I=0.855 D=4.93): SUCCESS
+Episode 26/35 (P=18.82 I=0.717 D=4.72): SUCCESS
+Episode 27/35 (P=16.75 I=3.249 D=7.11): SUCCESS
+Episode 28/35 (P=19.54 I=2.311 D=8.42): SUCCESS
+Episode 29/35 (P=4.30 I=1.052 D=3.54): SUCCESS
+Episode 30/35 (P=3.13 I=1.523 D=10.55): SUCCESS
+Episode 31/35 (P=4.04 I=5.122 D=14.88): SUCCESS
+Episode 32/35 (P=0.78 I=0.264 D=14.90): SUCCESS
+Episode 33/35 (P=11.98 I=1.356 D=13.51): SUCCESS
+Episode 34/35 (P=17.69 I=5.408 D=9.52): SUCCESS
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too low requested position: -0.76572 < -0.5
+WARNING: Mavic2Pro "Mavic 2 PRO" > DEF CAMERA_YAW HingeJoint > Solid "camera yaw" > DEF CAMERA_PITCH HingeJoint > Solid "camera pitch" > DEF CAMERA_ROLL HingeJoint > RotationalMotor "camera roll": too big requested position: 0.553407 > 0.5
+INFO: drone_pid: Terminating.
+Episode 35/35 (P=5.97 I=0.600 D=9.12): SUCCESS
+GA evaluation finished: 35 candidates.
